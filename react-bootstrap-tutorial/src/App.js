@@ -46,7 +46,7 @@ function App() {
           <Breadcrumb.Item>Test2</Breadcrumb.Item>
           <Breadcrumb.Item active>Test3</Breadcrumb.Item>
         </Breadcrumb>
-        <Alert variant='success'>This is a button</Alert>
+        <Alert variant='success'>This is an alert</Alert>
         <Button>Test button</Button>
         </Container>
       </header>
